@@ -20,6 +20,9 @@
 <a href=https://discordapp.com/users/graci#2428>
 <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white>
 </a>
+ <a href=https://www.behance.net/gracielabeatriz>
+   <img src=https://img.shields.io/badge/-Behance-ff69b4?style=for-the-badge&logo=Behance&logoColor=white>
+ </a>
 </div>
 
 ---
