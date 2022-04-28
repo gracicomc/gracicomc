@@ -1,6 +1,6 @@
 # Hi!! I'm Graciela - aka Graci <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-## I'm a developer student from Belém/PA - Brasil
+## I'm a developer student from Belém/PA - Brasil <img src="/img/bandeira-do-brasil.png" width="30px">
 
 - 👩🏾‍💻 I’m 23 years old. My pronoums are she/her.
 - 🎒 I’m in the last period of System Development and Analysis at Amazon University (UNAMA);
