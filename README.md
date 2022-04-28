@@ -5,13 +5,14 @@
 - 👩🏾‍💻 I’m 23 years old. My pronoums are she/her.
 - 🎒 I’m in the last period of System Development and Analysis at Amazon University (UNAMA);
 - 🔭 I’m currently learning Node.js, JavaScript, HTML5, CSS3 and a little bit of UI/UX Design;
-- 👯 Actually i’m in a scholarship from Compass.UOL company;
+- 👯 I’m currently in a scholarship from Compass.UOL company;
 - 🥅 I love to play soccer, go to the GYM and gaming 🎮 in my spare time;
-- 😻 Off topic: I have a pretty chonk cat called Romrom 💙.
+- 😻 Off topic: I have a pretty chonky cat called Romrom 💙.
 
 ---
 
 ### Connect with me:
+<br/>
 
 <div>
 <a href=https://www.linkedin.com/in/graciela-parente>
@@ -28,6 +29,7 @@
 ---
 
 ### Languages and Tools:
+<br/>
 
 <div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
