@@ -52,4 +52,5 @@
 
 ### 🐍
 
-![Snake animation](https://github.com/gracicomc)
+ ![Snake animation](https://github.com/gracicomc/gracicomc/blob/output/github-contribution-grid-snake.svg)
+
