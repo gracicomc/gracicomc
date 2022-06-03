@@ -1,4 +1,4 @@
-# Hi!! I'm Graciela - aka Graci <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+# Hi!! I'm Graciela - aka Graci <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35">
 
 ## I'm a developer student from Belém/PA <img src="/img/bandeira-do-para.svg" width="30px"> - Brasil <img src="/img/bandeira-do-brasil.svg" width="30px">
 
