@@ -3,9 +3,8 @@
 ## I'm a developer student from Belém/PA <img src="/img/bandeira-do-para.svg" width="30px"> - Brasil <img src="/img/bandeira-do-brasil.svg" width="30px">
 
 - 👩🏾‍💻 I’m 23 years old. My pronoums are she/her.
-- 🎒 I’m in the last period of System Development and Analysis at Amazon University (UNAMA);
-- 🔭 I’m currently learning Node.js, JavaScript, HTML5, CSS3 and a little bit of UI/UX Design;
-- 👯 I’m currently in a scholarship from Compass.UOL company;
+- 🎒 Graduated System Development and Analysis;
+- 🔭 I’m currently studying Node.js, JavaScript, HTML5, CSS3 and a little bit of UI/UX Design;
 - 🥅 I love to play soccer, go to the GYM and gaming 🎮 in my spare time;
 - 😻 Off topic: I have a pretty chonky cat called Romrom 💙.
 
