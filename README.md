@@ -5,6 +5,7 @@
 - 👩🏾‍💻 I’m 25 years old. My pronoums are she/her.
 - 🎒 Graduated System Development and Analysis (2022);
 - 🔭 I’m currently working in Compass.Uol as Software Developer (fullstack);
+- 💻 My main stacks are currently Node.js and React with Typescript, dealing with AWS
 
 ---
 
