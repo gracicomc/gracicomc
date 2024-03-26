@@ -2,11 +2,9 @@
 
 ## I'm a developer student from Belém/PA <img src="/img/bandeira-do-para.svg" width="30px"> - Brasil <img src="/img/bandeira-do-brasil.svg" width="30px">
 
-- 👩🏾‍💻 I’m 24 years old. My pronoums are she/her.
+- 👩🏾‍💻 I’m 25 years old. My pronoums are she/her.
 - 🎒 Graduated System Development and Analysis (2022);
-- 🔭 I’m currently working in Compass.Uol as Software Developer (backend);
-- 🥅 I love to play soccer, go to the GYM and gaming 🎮 in my spare time;
-- 😻 Off topic: I have a pretty chonky cat called Romrom 💙.
+- 🔭 I’m currently working in Compass.Uol as Software Developer (fullstack);
 
 ---
 
