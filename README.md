@@ -6,6 +6,7 @@
 - 🎒 Graduated System Development and Analysis (2022);
 - 🔭 I’m currently working in Compass.Uol as Software Developer (fullstack);
 - 💻 My main stacks are currently Node.js and React with Typescript, dealing with AWS
+- 📔 Currently studying TDD, Clean Code and React Hooks
 
 ---
 
